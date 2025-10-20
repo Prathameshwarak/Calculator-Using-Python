@@ -87,7 +87,8 @@ if __name__ == "__main__":
 
 ## 🖥️ Output Screenshot
 
-![Calculator Output](84dd7a92-1b24-44b2-b7a9-3a54b84bf2c7.png)
+![Calculator Output](images/output1.png)
+![Calculator Output](images/output2.png)
 
 ---
 
@@ -131,8 +132,7 @@ A composite (or compound) key combines two or more columns to uniquely identify 
 ## 🗂️ Repository Contents
 - `calculator.py` → Source code  
 - `README.md` → Project documentation  
-- `elvates_header.png` → Header image  
-- `output.png` → Screenshot of calculator output  
+- `Images/` → All images 
 
 ---
 
