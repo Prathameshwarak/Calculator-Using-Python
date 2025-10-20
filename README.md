@@ -2,7 +2,7 @@
 
 ---
 
-![Elvates Lab Header](7b2bb67a-7f48-42a0-b1ac-dc0aaae95e2f.png)
+![Elvates Lab Header](images/header.png)
 
 ---
 
